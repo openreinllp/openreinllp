@@ -1,6 +1,7 @@
 # Welcome to OpenRein Consulting LLP 👋
 
-![image](https://github.com/user-attachments/assets/1130772b-4b12-44a8-a7c5-1a504e5beb8f)
+<!-- <img src="https://github.com/user-attachments/assets/1130772b-4b12-44a8-a7c5-1a504e5beb8f" height="300" width="500"> -->
+![image](https://github.com/user-attachments/assets/1130772b-4b12-44a8-a7c5-1a504e5beb8f "Unlocking Possibilities") 
 
 ## 🚀 About Us
 
